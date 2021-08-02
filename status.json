@@ -2,5 +2,6 @@
   "package": "appsed.edtbr.mdi",
   "version": "1.2",
   "date": "0",
-  "server": "no"
+  "server": "no",
+  "block": "no"
 }
